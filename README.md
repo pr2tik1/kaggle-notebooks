@@ -1,2 +1,1 @@
-# kaggle-notebooks
-My kaggle competition jupyter notebooks
+# W.I.P !!
