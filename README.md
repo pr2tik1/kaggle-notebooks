@@ -1,4 +1,19 @@
-# W.I.P !!
-<p align = "center">
-  <img src = "https://media.giphy.com/media/Lr4HRF6DEEJo90SQXF/giphy.gif">
-</p>
+# Kaggle Notebooks
+
+This repo is to keep a copy and as well as a track of my wor submitted on Kaggle. 
+
+## Competetions :
+
+-[x] Digit Recognition
+-[x] Dog Breed Classification
+-[x] Titanic Survival Classification
+-[ ] Global Wheat Challenge
+-[ ] Flower Classification
+-[ ] Facial Keypoint
+-[x] Advanced Linear Regression for house price prediction
+-[x] Loan Status Classification
+
+## Note- Work in Progres!!
+
+## Author : 
+- [Pratik Kumar](https://pr2tik1.github.io)
